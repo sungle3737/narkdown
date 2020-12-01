@@ -1,9 +1,9 @@
 {
   "exportConfig": {
-    "docsDirectory": "./docs",
+    "docsDirectory": "./notion2github-v0.0.4",
     "recursiveExport": true,
     "createPageDirectory": false,
-    "addMetadata": true,
+    "addMetadata": false,
     "lowerPathname": true,
     "lowerFilename": true,
     "lineBreak": false
